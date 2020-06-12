@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.1.7.RELEASE/c685525a7a4b707cf9ef9d1d4be0717bdf68b4c6/spring-boot-configuration-processor-2.1.7.RELEASE.jar" />
+        </processorPath>
+        <module name="Wechat.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
